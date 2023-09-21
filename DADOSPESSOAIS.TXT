@@ -41,3 +41,9 @@ PISCINA OU PRAIA: Piscina
 SOL OU CHUVA: Sol
 FUTEBOL OU BASQUETE: Futebol
 O QUE MAIS GOSTA NA SMN: A forma que trata o seu colaborador
+NOME COMPLETO: Juan Pablo Amaral Honório
+O QUE VOCÊ GOSTA MAIS DE FAZER: Jogar vídeo game 
+COR PREFERIDA: Preto
+ESPORTE PREFERIDO: Futebol
+ALTURA: 1.80cm
+PESO: 85kg
