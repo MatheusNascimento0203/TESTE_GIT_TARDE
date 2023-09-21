@@ -14,21 +14,13 @@ PESO: 80kg
 
 --INFORMAÇÕES COMPLEMENTARES
 
-<<<<<<< HEAD
 FAZ QUAL CURSO SUPERIOR: Sistemas de informações
 QUAL PAÍS QUERIA CONHECER: EUA
 PISCINA OU PRAIA: Praia
 SOL OU CHUVA: Chuva 
 FUTEBOL OU BASQUETE: Futebol
 O QUE MAIS GOSTA NA SMN: De tudo, principalmente do ambiente de trabalho
-=======
-FAZ QUAL CURSO SUPERIOR: Analista de Sistema
-QUAL PAÍS QUERIA CONHECER: Japão
-PISCINA OU PRAIA: Praia
-SOL OU CHUVA: Sol
-FUTEBOL OU BASQUETE: Futebol
-O QUE MAIS GOSTA NA SMN: Aprender
->>>>>>> Erick2
+
 
 
 -------- Júlia -------- 
@@ -134,9 +126,22 @@ SOL OU CHUVA: Chuva
 FUTEBOL OU BASQUETE: Futebol
 O QUE MAIS GOSTA NA SMN: O ambiente
 
+----- Erick ------
+
+-----INFORMAÇÕES PESSOAIS------
+
 NOME COMPLETO: Erick Alves
 O QUE VOCÊ GOSTA MAIS DE FAZER: Assistir jogos do Flamengo
 COR PREFERIDA: Azul
 ESPORTE PREFERIDO: futebol
 ALTURA: 1.87m
 PESO: 110kg
+
+-----INFORMAÇÕES COMPLEMENTARES------
+
+FAZ QUAL CURSO SUPERIOR: Analista de Sistema
+QUAL PAÍS QUERIA CONHECER: Japão
+PISCINA OU PRAIA: Praia
+SOL OU CHUVA: Sol
+FUTEBOL OU BASQUETE: Futebol
+O QUE MAIS GOSTA NA SMN: Aprender
