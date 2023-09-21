@@ -87,6 +87,7 @@ O QUE MAIS GOSTA NA SMN:AMBIENTE DE TRABALHO
 
 -----------NATAN-----------
 
+---INFORMAÇÕES PESSOAIS
 
 NOME COMPLETO: Natanael de Araújo Sousa
 O QUE VOCÊ GOSTA MAIS DE FAZER: Assistir vídeos no YouTube
@@ -94,6 +95,8 @@ COR PREFERIDA: Azul escuro
 ESPORTE PREFERIDO: Futebol
 ALTURA: 1,71
 PESO: 70kg
+
+----INFORMAÇÕES COMPLEMENTARES
 
 FAZ QUAL CURSO SUPERIOR: Análise e Desenvolvimento de Sistemas
 QUAL PAÍS QUERIA CONHECER: Vaticano
