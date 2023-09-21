@@ -63,6 +63,7 @@ SOL OU CHUVA: Sol
 FUTEBOL OU BASQUETE: Futebol
 O QUE MAIS GOSTA NA SMN: As pessoas da empresa
 
+
 ------------ALEX-----------
 
 ---INFORMAÇÕES PESSOAIS
@@ -83,7 +84,9 @@ SOL OU CHUVA:SOL
 FUTEBOL OU BASQUETE:FUTEBOL
 O QUE MAIS GOSTA NA SMN:AMBIENTE DE TRABALHO
 
+
 -----------NATAN-----------
+
 
 NOME COMPLETO: Natanael de Araújo Sousa
 O QUE VOCÊ GOSTA MAIS DE FAZER: Assistir vídeos no YouTube
@@ -91,3 +94,10 @@ COR PREFERIDA: Azul escuro
 ESPORTE PREFERIDO: Futebol
 ALTURA: 1,71
 PESO: 70kg
+
+FAZ QUAL CURSO SUPERIOR: Análise e Desenvolvimento de Sistemas
+QUAL PAÍS QUERIA CONHECER: Vaticano
+PISCINA OU PRAIA: Piscina
+SOL OU CHUVA: Chuva
+FUTEBOL OU BASQUETE: Futebol
+O QUE MAIS GOSTA NA SMN: Ambiente de Trabalho
