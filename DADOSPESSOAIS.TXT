@@ -14,12 +14,21 @@ PESO: 80kg
 
 --INFORMAÇÕES COMPLEMENTARES
 
+<<<<<<< HEAD
 FAZ QUAL CURSO SUPERIOR: Sistemas de informações
 QUAL PAÍS QUERIA CONHECER: EUA
 PISCINA OU PRAIA: Praia
 SOL OU CHUVA: Chuva 
 FUTEBOL OU BASQUETE: Futebol
 O QUE MAIS GOSTA NA SMN: De tudo, principalmente do ambiente de trabalho
+=======
+FAZ QUAL CURSO SUPERIOR: Analista de Sistema
+QUAL PAÍS QUERIA CONHECER: Japão
+PISCINA OU PRAIA: Praia
+SOL OU CHUVA: Sol
+FUTEBOL OU BASQUETE: Futebol
+O QUE MAIS GOSTA NA SMN: Aprender
+>>>>>>> Erick2
 
 
 -------- Júlia -------- 
