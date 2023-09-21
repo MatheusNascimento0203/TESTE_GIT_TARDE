@@ -104,3 +104,14 @@ PISCINA OU PRAIA: Piscina
 SOL OU CHUVA: Chuva
 FUTEBOL OU BASQUETE: Futebol
 O QUE MAIS GOSTA NA SMN: Ambiente de Trabalho
+
+-----------LUCAS--------------
+
+----INFORMAÇÕES PESSOAIS
+
+NOME COMPLETO: Lucas Barbosa Leal de Melo
+O QUE VOCÊ GOSTA MAIS DE FAZER: Não tenho algo específico
+COR PREFERIDA: Vermelho
+ESPORTE PREFERIDO: Futebol
+ALTURA: 1,72M
+PESO: 84 Kg
