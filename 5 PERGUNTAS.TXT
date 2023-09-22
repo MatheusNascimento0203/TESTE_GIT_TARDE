@@ -1,6 +1,7 @@
 ----------------- 5 NOVAS PERGUNTAS -----------------
 
 1. O QUE MAIS IRRITA VOCÊ?
+<<<<<<< Updated upstream
 R. A preguiça
 2. QUAL TIPO DE MÚSICAS VOCÊ MAIS GOSTA?
 R. Eletrônica, clássica e forró
@@ -10,3 +11,14 @@ R. Persistência
 R. A preguiça
 5. QUAL VIRTUDE QUE VOCÊ NÃO TEM E QUERIA MUITO TER?
 R. Laboriosidade
+=======
+R. A preguiçã
+2. QUAL TIPO DE MÚSICAS VOCÊ MAIS GOSTA?
+R. Eletrônica, clássica e forró
+3. QUAL É A SUA MAIOR QUALIDADE?
+R. A persistência
+4. QUAL É O SEU MAIOR DEFEITO?
+R. A preguiçã
+5. QUAL VIRTUDE QUE VOCÊ NÃO TEM E QUERIA MUITO TER?
+R. A laboriosidade
+>>>>>>> Stashed changes
