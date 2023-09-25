@@ -1,9 +1,19 @@
 QUAL O SEU NOME:
 
+  R: Carlos Emanuel Batista Bacalhau
+
 QUAL A SUA IDADE: 
+
+  R: 21
 
 QUAL PAÍS VOCÊ DESEJA CONHECER:
 
+  R: EUA
+
 QUE TIME VOCÊ TORCE:
 
+  R: Mengão
+
 QUEM FOI O CAMPEÃO DA COPA DO BRASIL 2023: 
+
+  R: São Paulo

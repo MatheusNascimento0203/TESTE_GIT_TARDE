@@ -1,5 +1,18 @@
 QUAL SEU TIME FAVORITO?
+  
+  R: Flamengo
+
 GOSTA DE VIAJAR?
+  R: Mais ou menos
+
 JÁ ANDOU DE AVIÃO?
+
+  R: Não
+
 SEU ESPORTE FAVORITO?
+
+  R: Futebol
+
 PREFERE PRAIA OU PISCINA?
+
+  R: Piscina
