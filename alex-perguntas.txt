@@ -1,18 +1,9 @@
-QUAL SEU TIME FAVORITO?
-  
-  R: Flamengo
+QUAL SEU TIME FAVORITO? Flamengo
 
-GOSTA DE VIAJAR?
-  R: Mais ou menos
+GOSTA DE VIAJAR? Mais ou menos
 
-JÁ ANDOU DE AVIÃO?
+JÁ ANDOU DE AVIÃO? Não
 
-  R: Não
+SEU ESPORTE FAVORITO? Futebol
 
-SEU ESPORTE FAVORITO?
-
-  R: Futebol
-
-PREFERE PRAIA OU PISCINA?
-
-  R: Piscina
+PREFERE PRAIA OU PISCINA? Piscina
