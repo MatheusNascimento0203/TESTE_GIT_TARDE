@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 imagem inserida
+=======
+Esse teste foi inserido uma imagem
+>>>>>>> teste
